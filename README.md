@@ -1,1 +1,1 @@
-# display-dynamic-content
+# display-dynamic-content This project displays dynamic blog content by fetching posts from a MySQL database and showing them on a webpage using PHP. Each post includes its title, content, author name (via JOIN), and creation date, making it a simple demonstration of database read operations.
